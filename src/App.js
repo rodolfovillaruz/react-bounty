@@ -43,10 +43,11 @@ function App() {
             </div>
             <div className="App-content-description">
               <h1>What we do</h1>
-              <p>
+              <p className="App-content-paragraph">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum felis eu mi imperdiet, id dapibus orci hendrerit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam dolor odio, pretium vitae est at, fermentum ornare massa. Vivamus aliquam tristique libero vel efficitur. Nulla iaculis, diam vel auctor pretium, justo lorem pellentesque massa, vestibulum vulputate risus nibh vitae felis. Maecenas sed leo varius, malesuada eros id, ultrices lorem. Quisque auctor ligula eget nulla egestas elementum.
               </p>
             </div>
+            <div className="App-content-space"></div>
           </div>
           <div className="App-footer">
             <div className="App-header-links">

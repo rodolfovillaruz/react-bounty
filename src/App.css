@@ -57,6 +57,19 @@
 .App-content-description {
   background-color: rgb(200, 200, 200);
   color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.App-content-paragraph {
+  width: 400px;
+}
+
+.App-content-space {
+  height: 50px;
+  background-color: white;
 }
 
 .App-footer {
